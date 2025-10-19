@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="184" src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODVmcHUxaDJnbjl6bzM1N3R3dDNxcjN6eWllbmVqdnY3OWJ3b2o1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/273wltvPPLkC04QkA2/giphy.gifBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/cat-not-mine-gif-13470465867492401477)"  />
+  <img height="184" src="https://tenor.com/view/cat-not-mine-gif-13470465867492401477"  />
 </div>
 
 ###
