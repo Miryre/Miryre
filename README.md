@@ -80,9 +80,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miryre/Miryre/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miryre/Miryre/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miryre/Miryre/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miryre/Miryre/output/pacman-contribution-graph-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miryre/Miryre/output/pacman-contribution-graph.svg?raw=true">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miryre/Miryre/output/pacman-contribution-graph.svg?raw=true">
 </picture>
 
 ###
