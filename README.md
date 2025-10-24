@@ -35,9 +35,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-</div>
-
-<div align="center" style="margin-top: 12px;">
+  <br/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -51,9 +49,7 @@
   <img src="https://cdn.simpleicons.org/slack/4A154B" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-</div>
-
-<div align="center" style="margin-top: 12px;">
+  <br/>
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
@@ -96,16 +92,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Miryre&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Miryre&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miryre/Miryre/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miryre/Miryre/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Miryre/Miryre/output/github-snake.svg" />
-  </picture>
 </div>
 
 ###
